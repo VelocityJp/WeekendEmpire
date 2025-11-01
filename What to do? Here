@@ -1,0 +1,43 @@
+🎮 Weekend Empire
+Run a shady weekend biz! Sell fictional gadgets, hire NPC mobsters, dodge in-game cops, and grow your empire.
+
+**Roles Needed:** Lua Scripters, Builders, UI/FX Devs
+**Time:** 3–6 hrs/week
+**Perks:** Game credit, Discord role, shoutouts, portfolio rights
+
+**Starter Tasks:**
+1️⃣ Booth UI – simple booth/shop GUI with buy button and cash update
+2️⃣ NPC Alert – notify NPCs when a sale happens at a booth
+3️⃣ Mobster Collector – NPC auto-collects booth cash
+
+**Rules / Safety:**
+- Keep it Roblox-safe (fictional gadgets, no real weapons)
+- Be respectful to other devs
+- Follow Roblox Terms of Service
+
+**Workflow / How to Contribute:**
+1. Comment “I’m taking this” on a task
+2. Create branch `feat/<name>-<task>`
+3. Work, then open PR or share screenshots in Discord
+4. Get feedback, merge, earn credit
+
+**Onboarding DM (for new devs):**
+Welcome to Weekend Empire! Join Discord (In README), pick a `good-first-issue`, open the place in Roblox Studio, and start coding/building. Post progress in #dev-work and you’ll get credit, a Discord role, and a shoutout!
+
+---
+
+## ✅ Contributor Rewards
+- Credit in the game credits + README  
+- Discord “Dev” role  
+- Shoutout after first merged PR  
+- Permission to show your work publicly  
+
+---
+
+## 🔒 Rules
+- Keep everything original or free-use assets.  
+- Never include real weapon references or illegal content.  
+- Follow Roblox Community Standards.  
+- Be respectful and professional.
+
+Thanks for contributing!  
