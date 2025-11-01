@@ -1,0 +1,36 @@
+what to do first: Starter “Good First Issues”
+Issue #1 – Booth / Shop UI
+
+Goal: Create the booth selling system (fictional gadgets).
+Tasks:
+
+Add a Booth model with an interact prompt.
+
+Make a BoothGui (item name, price, buy button).
+
+Script server event BoothSold.
+
+Log sale → player’s wallet.
+Location: src/BoothSystem/BoothServer.lua
+
+Issue #2 – NPC Alert System
+
+Goal: Alert patrol NPCs when a sale happens.
+Tasks:
+
+Listen for BoothSold event.
+
+Add alert animation or lights on nearby NPCs.
+
+Chance of “OfficerCheck” based on sale value.
+Location: src/NPCSystem/AlertHandler.lua
+
+Issue #3 – Mobster Auto-Collector
+
+Goal: Add an NPC employee who collects cash automatically.
+Tasks:
+
+Create Mobster module with pay interval and cut percentage.
+
+Simple UI to hire/fire mobsters.
+Location: src/MobsterSystem/Mobster.lua
